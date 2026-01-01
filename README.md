@@ -5,6 +5,8 @@ Easily descriptive statistics calculator using my powerful online tool. Data wer
 
 Did you know that nearly **2.5 quintillion bytes of data** are generated every day? With so much information, it becomes difficult to make sense of raw data. A  [**descriptive statistics calculator** ](https://ecorstats.com/descriptive-statistics-calculator-uncover-insights/)is a powerful data analysis tool that simplifies this process.
 
+![alt](https://github.com/ecorstats/Descriptive-Statistics-Calculator/blob/1dde94ea39c32a31d47f3716922180918c32defe/descriptive%20statistics%20calculator.webp)
+
 An online statistical calculator can greatly assist in data analysis.  [**Eco R Stats** ](https://ecorstats.com/)is one such tool with a simple interface for calculating the **mean, median, mode, and standard deviation**.
 
 Using this tool, you can better understand your data and make informed decisions. In this article, we explore how a descriptive statistics calculator can transform data analysis.
